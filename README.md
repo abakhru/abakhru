@@ -1,16 +1,20 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<!--
-**abakhru/abakhru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hey there, I'm Amit <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-Here are some ideas to get you started:
+<h3 align="center"> Exploring all things tech !</h3>
+  
+<!-- I like automating things, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on something cool and exciting !
+- 🌱 Always curious and learning stuff.
+- 👨‍💻 Read more about my projects at [https://abakhru.github.io/]
+- 📫 How to reach me: You may follow me on [LinkedIn](https://www.linkedin.com/in/abakhru/) 
+<br />
+<br />
+
+<br>
+<div align="center">
+
+</div>
